@@ -2,7 +2,7 @@
 ## Implementing concept of Threads to check concurrency issues.
 
 Here we find methods executing on two different stacks and both are calling getters or setters on single object on the heap.
-###### An interesting Problem mentioned in the book **Head First Java** by _Kathy Sierra and Bert Bates_ 
+### An interesting Problem mentioned in the book **Head First Java** by _Kathy Sierra and Bert Bates_ 
 
 This code shows what can happen when two
 threads (Ryan and Monica) share a single object (the bank
